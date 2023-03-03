@@ -15,12 +15,12 @@ Aqui es donde subo los proyectos a medida que los voy realizando, también encon
  Actualmente estoy estudiando **Ingeniería en Sistemas** 👨‍🎓 (*UTN*) y paralelamente desarrollando mis habilidades como *Front End* mediante cursos y recursos como autodidacta.
 
  Soy una persona que en vez de buscar la perfección busca la **excelencia** en cada proyecto o cosa que me proponga en la vida. 
- >
- > *A que me refiero con esto?*
- >
- > A que doy lo mejor de mi y me esfuerzo para que lo que haga se asemeje a lo perfecto pero siendo consciente de que la perfeccion no es posible alcanzarla, ya que siempre se puede mejorar y escalar. 
- >
- > Aspirar a la perfección es un método que nos aboca al sufrimiento.
+ 
+  *A que me refiero con esto?*
+ 
+  A que doy lo mejor de mi y me esfuerzo para que lo que haga se asemeje a lo perfecto pero siendo consciente de que la perfeccion no es posible alcanzarla, ya que siempre se puede mejorar y escalar. 
+ 
+  Aspirar a la perfección es un método que nos aboca al sufrimiento.
 
 <br>
 
