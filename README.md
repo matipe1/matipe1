@@ -24,7 +24,6 @@ Aqui es donde subo los proyectos a medida que los voy realizando, también encon
 
 <br>
 
----
 ## 💻 Tecnologías:
 
 * HTML
@@ -39,7 +38,6 @@ Aqui es donde subo los proyectos a medida que los voy realizando, también encon
 * Blender
 * ChatGPT 🤖
 
----
 ## 📫 Encuéntrame en:
 <br>
 
