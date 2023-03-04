@@ -38,6 +38,8 @@ Aqui es donde subo los proyectos a medida que los voy realizando, también encon
 * Blender
 * ChatGPT 🤖
 
+<br> 
+
 ## 📫 Encuéntrame en:
 <br>
 
