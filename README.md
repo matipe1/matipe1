@@ -33,6 +33,7 @@ Aqui es donde subo los proyectos a medida que los voy realizando, también encon
 #### Herramientas que manejo:
 
 * Git
+* Slack
 * Figma
 * Photoshop
 * Blender
