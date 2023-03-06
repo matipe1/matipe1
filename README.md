@@ -34,6 +34,7 @@ Aqui es donde subo los proyectos a medida que los voy realizando, también encon
 
 * Git
 * Slack
+* Notion
 * Figma
 * Photoshop
 * Blender
