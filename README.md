@@ -12,7 +12,7 @@ Aqui es donde subo los proyectos a medida que los voy realizando, también encon
 
  Soy un apasionado por la tecnología, la programación y el diseño, estoy en camino a convertirme **Desarrollador Full-Stack**. 
 
- Actualmente estoy estudiando **Ingeniería en Sistemas** 👨‍🎓 (*UTN*) y paralelamente desarrollando mis habilidades como *Front End* mediante cursos y recursos como autodidacta. Cuento con estudios de Inglés y constantemente trato de rodearme con la lengua inglesa.
+ Actualmente estoy estudiando **Ingeniería en Sistemas** 👨‍🎓 (*UTN*) y paralelamente desarrollando mis habilidades como *Front End* mediante cursos y recursos como autodidacta. Cuento con estudios de Inglés y constantemente trato de rodearme con el lenguaje.
 
  Soy el tipo de persona que en vez de buscar la perfección busca la **excelencia** en cada proyecto o cosa que se proponga. 
  
