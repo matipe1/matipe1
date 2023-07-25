@@ -10,23 +10,18 @@ Aqui es donde subo los proyectos a medida que los voy realizando, también encon
 
 ## 👤 Acerca de mi:
 
- Soy un apasionado por la tecnología, la programación y el diseño, estoy en camino a convertirme **Desarrollador Full-Stack**. 
+ Soy un apasionado por la tecnología, la programación y el analisis, estoy en camino a convertirme en **Ingeniero de Datos**. 
 
- Actualmente estoy estudiando **Ingeniería en Sistemas** 👨‍🎓 (*UTN*) y paralelamente desarrollando mis habilidades como *Front End* mediante cursos y recursos como autodidacta. Cuento con estudios de Inglés y constantemente trato de rodearme con el lenguaje.
+ Actualmente estoy estudiando **Ingeniería en Sistemas** 👨‍🎓 (*UTN*) y paralelamente practicando para intentar ir un paso mas adelante en lo que voy aprendiendo. Por otro lado, sigo mejorando y perfeccionando mi Inglés mediante cursos y recursos web.
 
- Soy el tipo de persona que en vez de buscar la perfección busca la **excelencia** en cada proyecto o cosa que se proponga. 
- 
-  *A que me refiero con esto?*
- 
-  A que doy lo mejor de mi y me esfuerzo para que lo que haga se asemeje a lo perfecto, aunque siendo consciente de que no es posible llegar a la perfeccion, ya que considero que se puede estar en crecimiento y mejorar en todos los aspectos constantemente. 
+ Personalmente busco siempre establecer buenos habitos para poder lograr todos los objetivos que me proponga y tambien busco estar aprendiendo cosas nuevas constantemente.
+ > "Vive como si fueras a morir mañana. Aprende como si fueras a vivir para siempre" -Mahatma Gandhi.
 
 <br>
 
 ## 💻 Tecnologías:
 
-* HTML
-* CSS
-* JAVASCRIPT
+* Python
   
 #### Herramientas que manejo:
 
@@ -34,9 +29,6 @@ Aqui es donde subo los proyectos a medida que los voy realizando, también encon
 * Slack
 * Notion
 * Figma
-* Photoshop
-* Blender
-* ChatGPT 🤖
 
 <br> 
 
