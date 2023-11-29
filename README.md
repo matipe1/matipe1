@@ -10,7 +10,7 @@ Aqui es donde subo los proyectos a medida que los voy realizando, también encon
 
 ## 👤 Acerca de mi:
 
- Soy un apasionado por la tecnología, la programación y el analisis, estoy en camino a convertirme en **Ingeniero de Datos**. 
+ Soy un apasionado por la tecnología, la programación y el analisis, estoy en camino a convertirme en **Ingeniero de Software**. 
 
  Actualmente estoy estudiando **Ingeniería en Sistemas** 👨‍🎓 (*UTN*) y paralelamente practicando para intentar ir un paso mas adelante en lo que voy aprendiendo. Por otro lado, sigo mejorando y perfeccionando mi Inglés mediante cursos y recursos web.
 
@@ -36,5 +36,3 @@ Aqui es donde subo los proyectos a medida que los voy realizando, también encon
 <br>
 
 > [Linkedin](https://www.linkedin.com/in/diegopetitto04/) 
-
-> [Instagram](https://www.instagram.com/diegopetitto_/)
