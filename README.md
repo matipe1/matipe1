@@ -9,6 +9,5 @@ Aqui es donde subo los proyectos a medida que los voy realizando, también encon
 <br>
 
 ## 📫 Encuéntrame en:
-<br>
 
 > [Linkedin](https://www.linkedin.com/in/diegopetitto04/) 
