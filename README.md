@@ -1,6 +1,6 @@
 <br>
 
-# Hola, mi nombre es Diego Petitto 👋
+# Hola, mi nombre es Diego 👋
 
 Bienvenidos/as a mi perfil de Github!
 
