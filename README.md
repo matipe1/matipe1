@@ -6,6 +6,8 @@ Desarrollo aplicaciones web orientadas a resolver necesidades concretas. Me inte
 
 Mi enfoque abarca tanto el frontend como el backend, conectando interfaces, lógica de negocio y datos para construir aplicaciones completas.
 
+Acá comparto proyectos personales y académicos, desde aplicaciones web hasta desarrollos con IoT que combinan software y hardware.
+
 ### 💻 Tecnologías
 
 JavaScript · TypeScript · Python · React · Node.js · NestJS · SQL
