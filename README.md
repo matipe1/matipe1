@@ -1,10 +1,14 @@
-<br>
+# Hola, soy Diego 👋
 
-# Hola, mi nombre es Diego 👋
+Estudiante de **Ingeniería en Sistemas de Información** en la **Universidad Tecnológica Nacional**, Córdoba, Argentina.
 
-Bienvenidos/as a mi perfil de Github!
+Desarrollo aplicaciones web orientadas a resolver necesidades concretas. Me interesa comprender el problema detrás de cada proyecto y construir soluciones útiles para las personas que las usan.
 
-Aqui es donde subo los proyectos a medida que los voy realizando, también encontraras todas las tecnologias que voy adquiriendo por medio de la facultad, cursos y proyectos personales...
+Mi enfoque abarca tanto el frontend como el backend, conectando interfaces, lógica de negocio y datos para construir aplicaciones completas.
+
+### 💻 Tecnologías
+
+JavaScript · TypeScript · Python · React · Node.js · NestJS · SQL
 
 <br>
 
